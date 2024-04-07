@@ -3,7 +3,7 @@ import random
 
 
 def display_board(board):
-    # os.system('clear')
+    os.system('clear')
 
     print('\n')
     print(board[1] + '|' + board[2] + '|' + board[3])
