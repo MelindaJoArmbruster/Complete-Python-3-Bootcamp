@@ -1,6 +1,6 @@
 import one
 
-print("top-level in two.py")
+print("TOP-LEVEL in two.py")
 
 one.func()
 
