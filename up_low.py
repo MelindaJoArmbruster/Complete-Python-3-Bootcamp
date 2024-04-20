@@ -8,8 +8,4 @@ def up_low(s):
             d['lower'] += 1
         else:
             pass
-    print(
-        f'No. of Upper case characters : {d["upper"]}\nNo. of Lower case characters : {d["lower"]}')
-
-
-up_low('Hello Mr. Rogers, how are you this fine Tuesday?')
+    return d
